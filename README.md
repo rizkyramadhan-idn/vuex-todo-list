@@ -1,4 +1,4 @@
-# latihan-todo-list-1
+# vuex-todo-list
 
 ## Project setup
 ```
